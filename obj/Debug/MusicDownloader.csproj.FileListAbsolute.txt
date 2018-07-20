@@ -1,0 +1,17 @@
+C:\Users\Салават\Documents\Visual Studio 2015\Projects\MusicDownloader\MusicDownloader\bin\Debug\MusicDownloader.exe.config
+C:\Users\Салават\Documents\Visual Studio 2015\Projects\MusicDownloader\MusicDownloader\obj\Debug\MusicDownloader.csprojResolveAssemblyReference.cache
+C:\Users\Салават\Documents\Visual Studio 2015\Projects\MusicDownloader\MusicDownloader\obj\Debug\MusicDownloader.Form1.resources
+C:\Users\Салават\Documents\Visual Studio 2015\Projects\MusicDownloader\MusicDownloader\obj\Debug\MusicDownloader.Properties.Resources.resources
+C:\Users\Салават\Documents\Visual Studio 2015\Projects\MusicDownloader\MusicDownloader\obj\Debug\MusicDownloader.csproj.GenerateResource.Cache
+C:\Users\Салават\Documents\Visual Studio 2015\Projects\MusicDownloader\MusicDownloader\bin\Debug\MusicDownloader.exe
+C:\Users\Салават\Documents\Visual Studio 2015\Projects\MusicDownloader\MusicDownloader\bin\Debug\MusicDownloader.pdb
+C:\Users\Салават\Documents\Visual Studio 2015\Projects\MusicDownloader\MusicDownloader\bin\Debug\AngleSharp.dll
+C:\Users\Салават\Documents\Visual Studio 2015\Projects\MusicDownloader\MusicDownloader\bin\Debug\AngleSharp.xml
+C:\Users\Салават\Documents\Visual Studio 2015\Projects\MusicDownloader\MusicDownloader\obj\Debug\MusicDownloader.exe
+C:\Users\Салават\Documents\Visual Studio 2015\Projects\MusicDownloader\MusicDownloader\obj\Debug\MusicDownloader.pdb
+C:\Users\Салават\Documents\Visual Studio 2015\Projects\MusicDownloader\MusicDownloader\bin\Debug\Fizzler.dll
+C:\Users\Салават\Documents\Visual Studio 2015\Projects\MusicDownloader\MusicDownloader\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Салават\Documents\Visual Studio 2015\Projects\MusicDownloader\MusicDownloader\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Салават\Documents\Visual Studio 2015\Projects\MusicDownloader\MusicDownloader\bin\Debug\Fizzler.pdb
+C:\Users\Салават\Documents\Visual Studio 2015\Projects\MusicDownloader\MusicDownloader\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\Салават\Documents\Visual Studio 2015\Projects\MusicDownloader\MusicDownloader\bin\Debug\HtmlAgilityPack.pdb
